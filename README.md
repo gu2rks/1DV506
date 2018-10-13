@@ -1,7 +1,7 @@
 # Programming and Problem Solving @ Linnaeus University, Växjö, Sweden
 ## By aa224iu@student.lnu.se
 
-![Alt Text](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![alt-text](link)
 
 Copy if u wannna fail on the exam !!
 
