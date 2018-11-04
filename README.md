@@ -3,7 +3,7 @@
 
 
 <p align="center">
- ![code](https://github.com/gu2rks/1DV506/blob/LAB2/coding.gif) 
+<img src="https://github.com/gu2rks/1DV506/blob/LAB2/coding.gif">
 
 
 <center>ctrl+c, ctrl+v if u wannna fail on the exam !!</center>
