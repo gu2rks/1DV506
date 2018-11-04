@@ -1,8 +1,8 @@
 # Programming and Problem Solving @ Linnaeus University, Växjö, Sweden
-## By aa224iu@student.lnu.se
+## Developed by: aa224iu/gu2rks
 
-![Alt Text](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-Copy if u wannna fail on the exam !!
+ctrl+c, ctrl+v if u wannna fail on the exam !!
 
 GLHF
