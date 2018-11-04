@@ -1,8 +1,12 @@
 # Programming and Problem Solving @ Linnaeus University, Växjö, Sweden
-## By aa224iu@student.lnu.se
+## Developed by: aa224iu/[gu2rks](https://github.com/gu2rks)
 
-![alt-text](https://github.com/blu3f4lc0n/1DV506/blob/master/comp.gif)
 
-Copy if u wannna fail on the exam !!
+<p align="center">
+ ![code](https://github.com/gu2rks/1DV506/blob/LAB2/coding.gif) 
 
-GLHF
+
+<center>ctrl+c, ctrl+v if u wannna fail on the exam !!</center>
+</p>
+
+**GLHF**
