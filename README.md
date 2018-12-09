@@ -1,5 +1,5 @@
 # Programming and Problem Solving @ Linnaeus University, Växjö, Sweden
-## Developed by: aa224iu/[gu2rks](https://github.com/gu2rks)
+## Developed by: [gu2rks](https://github.com/gu2rks)
 
 
 <p align="center">
