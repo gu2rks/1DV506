@@ -1,4 +1,4 @@
-# LAB2
+# LAB3
 ## Documented by: Jonas Lundberg (Jonas.Lundberg@lnu.se)
 ## Edited by: [gu2rks](https://github.com/gu2rks)
 <li><b>Exercise 1</b><br>
